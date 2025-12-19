@@ -34,7 +34,7 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: phuc794/it4409-sample:staging
+          tags: phucnb794/it4409-sample:staging
 
   deploy:
     name: Deploy to Server
